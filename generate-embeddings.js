@@ -31,3 +31,5 @@ await PineconeStore.fromDocuments(docs, new OpenAIEmbeddings(), {
   pineconeIndex,
   maxConcurrency: 5, // Maximum number of batch requests to allow at once. Each batch is 1000 vectors.
 });
+
+// BUG: when rerun, the embeddings duplicates
