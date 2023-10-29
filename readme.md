@@ -3,6 +3,10 @@
 - It generate embeddings using OpenAIEmbeddings and then saves it to pinecone database
 - The embeddings is then used by the ask-msc AI to answer queries
 
+## Installation
+- `git clone`
+- `npm install`
+
 ## Setting Environment variables
 
 - Rename `.env.example` to `.env`
