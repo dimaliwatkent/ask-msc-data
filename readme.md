@@ -4,8 +4,8 @@
 - The embeddings is then used by the ask-msc AI to answer queries
 
 ## Installation
-- `git clone`
-- `npm install`
+- Run `git clone https://github.com/dimaliwatkent/ask-msc-data.git`
+- Navigate inside the project folder and run `npm install`
 
 ## Setting Environment variables
 
