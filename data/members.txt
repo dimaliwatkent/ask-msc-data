@@ -1,8 +1,0 @@
-# Chess club organization of Marinduque state college
-
-## President: Mark Laurel
-### age: 13
-## Vice President: Jake Morgue
-### age: 14
-## Secretary: Sarrah Smith
-### age: 17
