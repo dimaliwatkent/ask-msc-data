@@ -27,3 +27,10 @@
 - Possible Solution:
   - creating a script that only generate embeddings for the new data added, and ignores all the previously added data
   - delete all the generated data in the pinecone, and add all the new data (this solution is not efficient)
+
+## References
+
+- [Creating vector store](https://youtu.be/1towAoXOWLg?si=I038mNhqc4XpKjYZ)
+- [Langchain Pinecone](https://js.langchain.com/docs/modules/data_connection/vectorstores/integrations/pinecone)
+- [About embeddings](https://semaphoreci.com/blog/word-embeddings)
+- [Pinecone embeddings info](https://www.pinecone.io/learn/openai-gen-qa/)
